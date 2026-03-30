@@ -57,10 +57,10 @@ navalskill/
 │   ├── philosophy_and_meaning.md
 │   ├── relationships_and_trust.md
 │   └── technology_and_startups.md
-├── 原子库/                          # Structured knowledge database
+├── atoms/                           # Structured knowledge database
 │   ├── atoms.jsonl                  # 2,347 knowledge atoms
 │   └── README.md                    # Field docs
-└── 高频概念词典.md                   # High-frequency concept dictionary
+└── frequency_dictionary.md          # High-frequency concept dictionary
 ```
 
 Knowledge packs are organized by **topic** (not by skill section), so multiple sections can reference the same pack. No duplication.
